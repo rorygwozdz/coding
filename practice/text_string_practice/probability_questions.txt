@@ -1,0 +1,1912 @@
+1. Suppose a family contains two children of different ages, and we are interested in the
+gender of these children. Let F denote that a child is female and M that the child is
+male and let a pair such as FM denote that the older child is female and the younger is
+male. There are four points in the set S of possible observations:
+S = {FF, FM, MF, MM}.
+Let A denote the subset of possibilities containing no males; B, the subset containing two
+males; and C, the subset containing at least one male. List the elements of 𝐴, 𝐵, 𝐶, 𝐴 ∩
+𝐵, 𝐴 ∪ 𝐵, 𝐴 ∩ 𝐶, 𝐴 ∪ 𝐶, 𝐵 ∩ 𝐶, 𝐵 ∪ 𝐶, 𝑎𝑛𝑑 𝐶 ∩ 𝐵
+ 
+
+2. Draw Venn diagrams to verify DeMorgan’s laws. That is, for any two sets A and B,
+(𝐴 ∪ 𝐵) = 𝐴̅ ∩ 𝐵 and (𝐴 ∩ 𝐵) = 𝐴̅ ∪ 𝐵.
+ 
+
+3. Use the identities A = A ∩ S and S = B ∪ 𝐵 and a distributive law to prove that
+a. A = (A ∩ B) ∪ (A ∩ 𝐵).
+b. If B ⊂ A then A = B ∪ (A ∩ 𝐵).
+c. Further, show that (A ∩ B) and (A ∩ 𝐵) are mutually exclusive and therefore that A is
+the union of two mutually exclusive sets, (A ∩ B) and (A ∩ 𝐵).
+d. Also show that B and (A ∩ 𝐵) are mutually exclusive and if B ⊂ A, A is the union of
+two mutually exclusive sets, B and (A ∩ 𝐵).
+ 
+
+4. A group of five applicants for a pair of identical jobs consists of three men and two
+women. The employer is to select two of the five applicants for the jobs. Let S denote
+the set of all possible outcomes for the employer’s selection. Let A denote the subset
+of outcomes corresponding to the selection of two men and B the subset corresponding
+to the selection of at least one woman. List the outcomes in 𝐴, 𝐵, 𝐴 ∪ 𝐵, 𝐴 ∩
+𝐵, 𝑎𝑛𝑑 𝐴 ∩ 𝐵. (Denote the different man and women by M1, M2, M3 and W1, W2,
+respectively.)
+ 
+
+5. A manufacturer has five seemingly identical computer terminals available for
+shipping. Unknown to her, two of the five are defective. A particular order calls for
+two of the terminals and is filled by randomly selecting two of the five that are
+available.
+a. List the sample space for this experiment.
+b. Let A denote the event that the order is filled with two nondefective terminals. List the
+sample points in A.
+c. Construct a Venn diagram for the experiment that illustrates event A.
+d. Assign probabilities to the simple events in such a way that the information about the
+experiment is used and the axioms in Definition 2.6 are met.
+e. Find the probability of event A.
+
+
+6. Every person’s blood type is A, B, AB, or O. In addition, each individual either has
+the Rhesus (Rh) factor (+) or does not (−). A medical technician records a person’s
+blood type and Rh factor. List the sample space for this experiment.
+ 
+
+7. A sample space consists of five simple events, E1, E2, E3, E4, and E5.
+a. If 𝑃(𝐸1) = 𝑃(𝐸2) = 0.15, 𝑃(𝐸3) = 0.4, 𝑎𝑛𝑑 𝑃(𝐸4) = 2𝑃(𝐸5),
+
+find
+
+the
+
+probabilities of E4 and E5.
+b. If 𝑃(𝐸1) = 3𝑃(𝐸2) = 0.3, find the probabilities of the remaining simple events if
+you know that the remaining simple events are equally probable.
+ 
+
+8. Americans can be quite suspicious, especially when it comes to government
+conspiracies. On the question of whether the U.S. Air Force has withheld proof of the
+existence of intelligent life on other planets, the proportions of Americans with
+varying opinions are given in the table.
+
+Suppose that one American is selected and his or her opinion is recorded.
+a. What are the simple events for this experiment?
+b. Are the simple events that you gave in part (a) all equally likely? If not, what are the
+probabilities that should be assigned to each?
+
+c. What is the probability that the person selected finds it at least somewhat likely that
+the Air Force is withholding information about intelligent life on other planets?
+ 
+
+9. An oil prospecting firm hits oil or gas on 10% of its drillings. If the firm drills two
+wells, the four possible simple events and three of their associated probabilities are as
+given in the accompanying table. Find the probability that the company will hit oil or
+gas
+a. on the first drilling and miss on the second.
+b. on at least one of the two drillings.
+
+ 
+
+10. Hydraulic landing assemblies coming from an aircraft rework facility are each
+inspected for defects. Historical records indicate that 8% have defects in shafts only,
+6% have defects in bushings only, and2%have defects in both shafts and bushings.
+One of the hydraulic assemblies is selected randomly. What is the probability that the
+assembly has
+a. a bushing defect?
+b. a shaft or bushing defect?
+c. exactly one of the two types of defects?
+d. neither type of defect?
+
+ 
+
+11. A business office orders paper supplies from one of three vendors, V1, V2, or V3.
+Orders are to be placed on two successive days, one order per day. Thus, (V2, V3)
+might denote that vendor V2 gets the order on the first day and vendor V3 gets the
+order on the second day.
+a. List the sample points in this experiment of ordering paper on two successive days.
+b. Assume the vendors are selected at random each day and assign a probability to each
+sample point.
+c. Let A denote the event that the same vendor gets both orders and B the event that V2
+gets at least one order. Find 𝑃(𝐴), 𝑃(𝐵), 𝑃(𝐴 ∪ 𝐵), and 𝑃(𝐴 ∩ 𝐵) by summing the
+probabilities of the sample points in these events.
+ 
+
+12. Consider the problem of selecting two applicants for a job out of a group of five and
+imagine that the applicants vary in competence, 1 being the best, 2 second best, and so
+on, for 3, 4, and 5. These ratings are of course unknown to the employer. Define two
+events A and B as:
+A: The employer selects the best and one of the two poorest applicants (applicants 1 and
+4 or 1 and 5).
+B: The employer selects at least one of the two best.
+Find the probabilities of these events.
+
+ 
+The experiment involves randomly selecting two applicants out of five. Denote the selection
+of applicants 3 and 5 by {3, 5}. 2. The ten simple events, with {i, j } denoting the selection of
+applicants i and j , are
+E1 : {1, 2}, E5 : {2, 3}, E8 : {3, 4}, E10 : {4, 5}.
+E2 : {1, 3}, E6 : {2, 4}, E9 : {3, 5},
+E3 : {1, 4}, E7 : {2, 5},
+E4 : {1, 5},
+A random selection of two out of five gives each pair an equal chance for selection. Hence,
+we will assign each sample point the probability 1/10. That is,
+𝑃(𝐸𝑖 ) = 1/10 = .1, 𝑖 = 1, 2, . . . , 10.
+Checking the sample points, we see that B occurs whenever 𝐸1, 𝐸2, 𝐸3, 𝐸4, 𝐸5, 𝐸6, 𝑜𝑟 𝐸7
+occurs. Hence, these sample points are included in B. Finally, P(B) is equal to the sum of the
+probabilities of the sample points in B, or
+
+Similarly, we see that event 𝐴 = 𝐸3 ∪ 𝐸4 𝑎𝑛𝑑 𝑡ℎ𝑎𝑡 𝑃(𝐴) = .1 + .1 = .2.
+13. A balanced coin is tossed three times. Calculate the probability that exactly two of the
+three tosses result in heads.
+ 
+The experiment consists of observing the outcomes (heads or tails) for each of three tosses of
+a coin. A simple event for this experiment can be symbolized by a three-letter sequence of H’s
+and T ’s, representing heads and tails, respectively. The first letter in the sequence represents
+the observation on the first coin. The second letter represents the observation on the second
+coin, and so on.The eight simple events in S are
+
+E1 : HHH, E2 : HHT, E3 : HT H, E4 : T HH, E5 : HTT, E6 : T HT, E7 : TT H, E8 : TTT.
+Because the coin is balanced, we would expect the simple events to be equally likely; that is,
+𝑃(𝐸𝑖 ) = 1/8, 𝑖 = 1, 2, . . . , 8. The event of interest, A, is the event that exactly two of the
+tosses result in heads. An examination of the sample points will verify that 𝐴 = {𝐸2, 𝐸3, 𝐸4}.
+Finally, 𝑃(𝐴) = 𝑃(𝐸2) + 𝑃(𝐸3) + 𝑃(𝐸4) = 1/8 + 1/8 + 1/8 = 3/8.
+14. The odds are two to one that, when A and B play tennis, A wins. Suppose that A and
+B play two matches. What is the probability that A wins at least one match?
+
+15. A single car is randomly selected from among all of those registered at a local tag
+agency. What do you think of the following claim? “All cars are either Volkswagens
+or they are not. Therefore, the probability is 1/2 that the car selected is a Volkswagen.”
+ 
+
+16. Two additional jurors are needed to complete a jury for a criminal trial. There are six
+prospective jurors, two women and four men. Two jurors are randomly selected from
+the six available.
+a. Define the experiment and describe one sample point. Assume that you need describe
+only the two jurors chosen and not the order in which they were selected.
+b. List the sample space associated with this experiment.
+c. What is the probability that both of the jurors selected are women?
+ 
+
+17. The Bureau of the Census reports that the median family income for all families in the
+United States during the year 2003 was $43,318. That is, half of all American families
+had incomes exceeding this amount, and half had incomes equal to or below this
+amount. Suppose that four families are surveyed and that each one reveals whether its
+income exceeded $43,318 in 2003.
+a. List the points in the sample space.
+b. Identify the simple events in each of the following events:
+A: At least two had incomes exceeding $43,318.
+B: Exactly two had incomes exceeding $43,318.
+C: Exactly one had income less than or equal to $43,318.
+c. Make use of the given interpretation for the median to assign probabilities to the
+simple events and find P(A), P(B), and P(C).
+
+ 
+
+18. A boxcar contains six complex electronic systems. Two of the six are to be randomly
+selected for thorough testing and then classified as defective or not defective.
+a. If two of the six systems are actually defective, find the probability that at least one of
+the two systems tested will be defective. Find the probability that both are defective.
+b. If four of the six systems are actually defective, find the probabilities indicated in part
+(a).
+ 
+
+19. The names of 3 employees are to be randomly drawn, without replacement, from a
+bowl containing the names of 30 employees of a small company. The person whose
+name is drawn first receives $100, and the individuals whose names are drawn second
+and third receive $50 and $25, respectively. How many sample points are associated
+with this experiment?
+
+ 
+Because the prizes awarded are different, the number of sample points is the number of
+ordered arrangements of r = 3 out of the possible n = 30 names. Thus, the number of sample
+points in S is
+
+20. Suppose that an assembly operation in a manufacturing plant involves four steps,
+which can be performed in any sequence. If the manufacturer wishes to compare the
+assembly time for each of the sequences, how many different sequences will be
+involved in the experiment?
+
+
+21. A labor dispute has arisen concerning the distribution of 20 laborers to four different
+construction jobs. The first job (considered to be very undesirable) required 6 laborers;
+the second, third, and fourth utilized 4, 5, and 5 laborers, respectively. The dispute
+arose over an alleged random distribution of the laborers to the jobs that placed all 4
+members of a particular ethnic group on job 1. In considering whether the assignment
+represented injustice, a mediation panel desired the probability of the observed event.
+Determine the number of sample points in the sample space S for this experiment.
+That is, determine the number of ways the 20 laborers can be divided into groups of
+the appropriate sizes to fill all of the jobs. Find the probability of the observed event if
+it is assumed that the laborers are randomly assigned to jobs.
+22. An airline has six flights from New York to California and seven flights from
+California to Hawaii per day. If the flights are to be made on separate days, how many
+different flight arrangements can the airline offer from New York to Hawaii?
+ 
+
+23. A businesswoman in Philadelphia is preparing an itinerary for a visit to six major
+cities. The distance traveled, and hence the cost of the trip, will depend on the order in
+which she plans her route.
+a. How many different itineraries (and trip costs) are possible?
+b. If the businesswoman randomly selects one of the possible itineraries and Denver and
+San Francisco are two of the cities that she plans to visit, what is the probability that
+she will visit Denver before San Francisco?
+ 
+
+24. An experiment consists of tossing a pair of dice.
+a. Use the combinatorial theorems to determine the number of sample points in the
+sample space S.
+b. Find the probability that the sum of the numbers appearing on the dice is equal to 7.
+ 
+
+25. How many different seven-digit telephone numbers can be formed if the first digit
+cannot be zero?
+ 
+
+26. A fleet of nine taxis is to be dispatched to three airports in such a way that three go to
+airport A, five go to airport B, and one goes to airport C. In how many distinct ways
+can this be accomplished?
+ 
+
+27. Students attending the University of Florida can select from 130 major areas of study.
+A student’s major is identified in the registrar’s records with a two-or three-letter code
+(for example, statistics majors are identified by STA, math majors by MS). Some
+students opt for a double major and complete the requirements for both of the major
+areas before graduation. The registrar was asked to consider assigning these double
+majors a distinct two- or three-letter code so that they could be identified through the
+student records’ system.
+a. What is the maximum number of possible double majors available to University of
+Florida students?
+b. If any two- or three-letter code is available to identify majors or double majors, how
+many major codes are available?
+c. How many major codes are required to identify students who have either a single
+major or a double major?
+d. Are there enough major codes available to identify all single and double majors at the
+University of Florida?
+ 
+
+28. A local fraternity is conducting a raffle where 50 tickets are to be sold—one per
+customer. There are three prizes to be awarded. If the four organizers of the raffle each
+buy one ticket, what is the probability that the four organizers win
+a. all of the prizes?
+b. exactly two of the prizes?
+c. exactly one of the prizes?
+d. none of the prizes?
+ 
+
+29. Five firms, F1, F2, . . . , F5, each offer bids on three separate contracts, C1,C2, and C3.
+Any one firm will be awarded at most one contract. The contracts are quite different,
+so an assignment of C1 to F1, say, is to be distinguished from an assignment of C2 to
+F1.
+a. How many sample points are there altogether in this experiment involving assignment
+of contracts to the firms? (No need to list them all.)
+b. Under the assumption of equally likely sample points, find the probability that F3 is
+awarded a contract.
+
+ 
+
+30. A study is to be conducted in a hospital to determine the attitudes of nurses toward
+various administrative procedures. A sample of 10 nurses is to be selected from a total
+of the 90 nurses employed by the hospital.
+a. How many different samples of 10 nurses can be selected?
+b. Twenty of the 90 nurses are male. If 10 nurses are randomly selected from those
+employed by the hospital, what is the probability that the sample of ten will include
+exactly 4 male (and 6 female) nurses?
+ 
+
+31. Two cards are drawn from a standard 52-card playing deck. What is the probability
+that the draw will yield an ace and a face card?
+ 
+
+32. Five cards are dealt from a standard 52-card deck. What is the probability that we
+draw
+a. 1 ace, 1 two, 1 three, 1 four, and 1 five (this is one way to get a “straight”)?
+b. any straight?
+
+ 
+
+33. Suppose that we ask n randomly selected people whether they share your birthday.
+a. Give an expression for the probability that no one shares your birthday (ignore leap
+years).
+b. How many people do we need to select so that the probability is at least .5 that at least
+one shares your birthday?
+ 
+
+34. The eight-member Human Relations Advisory Board of Gainesville, Florida,
+considered the complaint of a woman who claimed discrimination, based on sex, on
+the part of a local company. The board, composed of fivewomen and three men, voted
+5–3 in favor of the plaintiff, the five women voting in favor of the plaintiff, the three
+men against. The attorney representing the company appealed the board’s decision by
+claiming sex bias on the part of the board members. If there was no sex bias among
+the board members, it might be reasonable to conjecture that any group of five board
+members would be as likely to vote for the complainant as any other group of five. If
+this were the case, what is the probability that the vote would split along sex lines (five
+women for, three men against)?
+ 
+
+35. Consider the following events in the toss of a single die: A: Observe an odd number,
+B: Observe an even number, C: Observe a 1 or 2.
+a. Are A and B independent events?
+b. Are A and C independent events?
+ 
+a. To decide whether A and B are independent, we must see whether they satisfy the
+conditions of Definition 2.10. In this example, P(A) = 1/2, P(B) = 1/2, and P(C) = 1/3.
+Because A ∩ B = ∅, P(A|B) = 0, and it is clear that P(A|B) = P(A). Events A and B are
+dependent events.
+b. Are A and C independent? Note that P(A|C) = 1/2 and, as before, P(A) = 1/2.
+Therefore, P(A|C) = P(A), and A and C are independent.
+36. Three brands of coffee, X, Y , and Z, are to be ranked according to taste by a judge.
+Define the following events:
+A: Brand X is preferred to Y .
+B: Brand X is ranked best.
+C: Brand X is ranked second best.
+D: Brand X is ranked third best.
+If the judge actually has no taste preference and randomly assigns ranks to the brands, is event
+A independent of events B, C, and D?
+ 
+The six equally likely sample points for this experiment are given by
+𝐸1 ∶ 𝑋𝑌 𝑍, 𝐸3 ∶ 𝑌 𝑋𝑍, 𝐸5 ∶ 𝑍𝑋𝑌,
+𝐸2 ∶ 𝑋𝑍𝑌, 𝐸4 ∶ 𝑌 𝑍𝑋, 𝐸6 ∶ 𝑍𝑌 𝑋,
+where XY Z denotes that X is ranked best, Y is second best, and Z is last. Then 𝐴 =
+{𝐸1, 𝐸2, 𝐸5}, 𝐵 = {𝐸1, 𝐸2}, 𝐶 = {𝐸3, 𝐸5}, 𝐷 = {𝐸4, 𝐸6}, and it follows that
+𝑃(𝐴) = 1/2, 𝑃(𝐴|𝐵) = 𝑃(𝐴 ∩ 𝐵)
+𝑃(𝐵) = 1, 𝑃(𝐴|𝐶) = 1/2, 𝑃(𝐴|𝐷) = 0.
+
+Thus, events A and C are independent, but events A and B are dependent. Events A and D are
+also dependent.
+37. If two events, A and B, are such that 𝑃(𝐴) = .5, 𝑃 (𝐵) = .3, and 𝑃(𝐴 ∩ 𝐵) = .1, find
+the following:
+
+P(A|B)
+P(B|A)
+P(A|A ∪ B)
+P(A|A ∩ B)
+P(A ∩ B|A ∪ B)
+
+ 
+
+38. Gregor Mendel was a monk who, in 1865, suggested a theory of inheritance based on
+the science of genetics. He identified heterozygous individuals for flower color that
+had two alleles (one r = recessive white color allele and one R = dominant red color
+allele). When these individuals were mated, 3/4 of the offspring were observed to have
+red flowers, and 1/4 had white flowers. The following table summarizes this mating;
+each parent gives one of its alleles to form the gene of the offspring.
+
+We assume that each parent is equally likely to give either of the two alleles and that, if either
+one or two of the alleles in a pair is dominant (R), the offspring will have red flowers. What is
+the probability that an offspring has
+a. at least one dominant allele?
+b. at least one recessive allele?
+c. one recessive allele, given that the offspring has red flowers?
+
+ 
+
+39. Cards are dealt, one at a time, from a standard 52-card deck.
+a. If the first 2 cards are both spades, what is the probability that the next 3 cards are also
+spades?
+b. If the first 3 cards are all spades, what is the probability that the next 2 cards are also
+spades?
+c. If the first 4 cards are all spades, what is the probability that the next card is also a
+spade?
+ 
+
+40. A study of the posttreatment behavior of a large number of drug abusers suggests that
+the likelihood of conviction within a two-year period after treatment may depend upon
+the offenders education. The proportions of the total number of cases falling in four
+education–conviction categories are shown in the following table:
+
+Suppose that a single offender is selected from the treatment program. Define the
+events: A: The offender has 10 or more years of education. B: The offender is convicted
+within two years after completion of treatment. Find the following:
+a. P(A).
+b. P(B).
+c. P(A ∩ B).
+d. P(A ∪ B).
+
+e. 𝑃(𝐴̅).
+f. P(𝐴 ∪ 𝐵).
+g. P(𝐴 ∩ 𝐵).
+h. P(A|B).
+i. P(B|A).
+ 
+
+41. Suppose that A and B are mutually exclusive events, with P(A) > 0 and P(B) < 1. Are
+A and B independent? Prove your answer.
+ 
+
+42. If A and B are mutually exclusive events and P(B) > 0, show that
+
+ 
+
+43. If A and B are independent events, show that A and 𝐵 are also independent. Are 𝐴̅ and
+𝐵 independent?
+ 
+
+44. Suppose that A and B are two events such that P(A) + P(B) > 1.
+a. What is the smallest possible value for P(A ∩ B)?
+b. What is the largest possible value for P(A ∩ B)?
+ 
+
+45. Suppose that A and B are two events such that P(A) + P(B) < 1.
+a. What is the smallest possible value for P(A ∩ B)?
+b. What is the largest possible value for P(A ∩ B)?
+
+ 
+
+46. Can A and B be mutually exclusive if P(A) = .4 and P(B) = .7? If P(A) = .4 and P(B) =
+.3? Why?
+ 
+
+47. Two events A and B are such that P(A) = .2, P(B) = .3, and P(A ∪ B) = .4. Find the
+following:
+a. P(A ∩ B)
+b. P(𝐴̅ ∪ 𝐵)
+c. P(𝐴̅ ∩ 𝐵)
+d. P(𝐴̅ |B)
+ 
+
+48. In a game, a participant is given three attempts to hit a ball. On each try, she either
+scores a hit, H, or a miss, M. The game requires that the player must alternate which
+hand she uses in successive attempts. That is, if she makes her first attempt with her
+right hand, she must use her left hand for the second attempt and her right hand for the
+third. Her chance of scoring a hit with her right hand is .7 and with her left hand is .4.
+Assume that the results of successive attempts are independent and that she wins the
+game if she scores at least two hits in a row. If she makes her first attempt with her
+right hand, what is the probability that she wins the game?
+
+ 
+
+49. Consider the following portion of an electric circuit with three relays. Current will
+flow from point a to point b if there is at least one closed path when the relays are
+activated. The relays may malfunction and not close when activated. Suppose that the
+relays act independently of one another and close properly when activated, with a
+probability of .9.
+
+a. What is the probability that current will flow when the relays are activated?
+b. Given that current flowed when the relays were activated, what is the probability that
+relay 1 functioned?
+ 
+
+50. Articles coming through an inspection line are visually inspected by two successive
+inspectors. When a defective article comes through the inspection line, the probability
+that it gets by the first inspector is 0.1. The second inspector will “miss” five out of ten
+of the defective items that get past the first inspector. What is the probability that a
+defective item gets by both inspectors?
+ 
+
+51. It is known that a patient with a disease will respond to treatment with probability
+equal to 0.9. If three patients with the disease are treated and respond independently,
+find the probability that at least one will respond.
+
+52. A monkey is to demonstrate that she recognizes colors by tossing one red, one black,
+and one white ball into boxes of the same respective colors, one ball to a box. If the
+monkey has not learned the colors and merely tosses one ball into each box at random,
+find the probabilities of the following results:
+a. There are no color matches.
+b. There is exactly one color match.
+53. An advertising agency notices that approximately 1 in 50 potential buyers of a product
+sees a given magazine ad, and 1 in 5 sees a corresponding ad on television. One in 100
+sees both. One in 3 actually purchases the product after seeing the ad, 1 in 10 without
+seeing it. What is the probability that a randomly selected potential customer will
+purchase the product?
+ 
+
+54. A state auto-inspection station has two inspection teams. Team 1 is lenient and passes
+all automobiles of a recent vintage; team 2 rejects all autos on a first inspection
+because their “headlights are not properly adjusted.” Four unsuspecting drivers take
+their autos to the station for inspection on four different days and randomly select one
+of the two teams.
+a. If all four cars are new and in excellent condition, what is the probability that three of
+the four will be rejected?
+b. What is the probability that all four will pass?
+ 
+
+55. A football team has a probability of .75 of winning when playing any of the other four
+teams in its conference. If the games are independent, what is the probability the team
+wins all its conference games?
+ 
+
+56. Suppose that two balanced dice are tossed repeatedly and the sum of the two
+uppermost faces is determined on each toss. What is the probability that we obtain
+a. a sum of 3 before we obtain a sum of 7?
+b. a sum of 4 before we obtain a sum of 7?
+ 
+
+57. A new secretary has been given n computer passwords, only one of which will permit
+access to a computer file. Because the secretary has no idea which password is correct,
+he chooses one of the passwords at random and tries it. If the password is incorrect, he
+discards it and randomly selects another password from among those remaining,
+proceeding in this manner until he finds the correct password.
+a. What is the probability that he obtains the correct password on the first try?
+b. What is the probability that he obtains the correct password on the second try? The
+third try?
+c. A security system has been set up so that if three incorrect passwords are tried before
+the correct one, the computer file is locked and access to it denied. If n = 7, what is the
+probability that the secretary will gain access to the file?
+
+ 
+
+58. An electronic fuse is produced by five production lines in a manufacturing operation.
+The fuses are costly, are quite reliable, and are shipped to suppliers in 100-unit lots.
+Because testing is destructive, most buyers of the fuses test only a small number of
+fuses before deciding to accept or reject lots of incoming fuses. All five production
+lines produce fuses at the same rate and normally produce only 2% defective fuses,
+which are dispersed randomly in the output. Unfortunately, production line 1 suffered
+mechanical difficulty and produced 5% defectives during the month of March. This
+situation became known to the manufacturer after the fuses had been shipped. A
+customer received a lot produced in March and tested three fuses. One failed.
+a. What is the probability that the lot was produced on line 1?
+b. What is the probability that the lot came from one of the four other lines?
+
+59. A diagnostic test for a disease is such that it (correctly) detects the disease in 90% of
+the individuals who actually have the disease. Also, if a person does not have the
+disease, the test will report that he or she does not have it with probability .9. Only 1%
+of the population has the disease in question. If a person is chosen at random from the
+population and the diagnostic test indicates that she has the disease, what is the
+conditional probability that she does, in fact, have the disease? Are you surprised by
+the answer? Would you call this diagnostic test reliable?
+ 
+
+60. Males and females are observed to react differently to a given set of circumstances. It
+has been observed that 70% of the females react positively to these circumstances,
+whereas only 40% of males react positively. A group of 20 people, 15 female and 5
+male, was subjected to these circumstances, and the subjects were asked to describe
+
+their reactions on a written questionnaire. A response picked at random from the 20
+was negative. What is the probability that it was that of a male?
+ 
+
+61. A student answers a multiple-choice examination question that offers four possible
+answers. Suppose the probability that the student knows the answer to the question is
+.8 and the probability that the student will guess is .2. Assume that if the student
+guesses, the probability of selecting the correct answer is .25. If the student correctly
+answers a question, what is the probability that the student really knew the correct
+answer?
+ 
+
+62. Of the travelers arriving at a small airport, 60% fly on major airlines, 30% fly on
+privately owned planes, and the remainder fly on commercially owned planes not
+belonging to a major airline. Of those traveling on major airlines, 50% are traveling
+for business reasons, whereas 60% of those arriving on private planes and 90% of
+those arriving on other commercially owned planes are traveling for business reasons.
+Suppose that we randomly select one person arriving at this airport. What is the
+probability that the person
+a. is traveling on business?
+b. is traveling for business on a privately owned plane?
+c. arrived on a privately owned plane, given that the person is traveling for business
+reasons?
+d. is traveling on business, given that the person is flying on a commercially owned
+plane?
+
+ 
+
+63. Five identical bowls are labeled 1, 2, 3, 4, and 5. Bowl i contains i white and 5 − i
+black balls, with i = 1, 2, . . . , 5. A bowl is randomly selected and two balls are
+randomly selected (without replacement) from the contents of the bowl.
+a. What is the probability that both balls selected are white?
+b. Given that both balls selected are white, what is the probability that bowl 3 was
+selected?
+ 
+
+64. Define an experiment as tossing two coins and observing the results. Let Y equal the
+number of heads obtained.
+a. Identify the sample points in S, assign a value of Y to each sample point, and
+identify the sample points associated with each value of the random variable Y .
+b.
+
+Compute the probabilities for each value of Y.
+
+
+65. A supervisor in a manufacturing plant has three men and three women working for
+him. He wants to choose two workers for a special job. Not wishing to show any
+biases in his selection, he decides to select the two workers at random. Let Y denote
+the number of women in his selection. Find the probability distribution for Y.
+ 
+
+66. When the health department tested private wells in a county for two impurities
+commonly found in drinking water, it found that 20% of the wells had neither
+impurity, 40% had impurity A, and 50% had impurity B. (Obviously, some had both
+impurities.) If a well is randomly chosen from those in the county, find the probability
+distribution for Y , the number of impurities found in the well.
+ 
+
+67. A group of four components is known to contain two defectives. An inspector tests the
+components one at a time until the two defectives are located. Once she locates the
+two defectives, she stops testing, but the second defective is tested to ensure accuracy.
+Let Y denote the number of the test on which the second defective is found. Find the
+probability distribution for Y.
+ 
+
+68. A problem in a test given to small children asks them to match each of three pictures
+of animals to the word identifying that animal. If a child assigns the three words at
+random to the three pictures, find the probability distribution for Y , the number of
+correct matches.
+ 
+
+69. Each of three balls are randomly placed into one of three bowls. Find the probability
+distribution for Y = the number of empty bowls.
+ 
+
+70. In order to verify the accuracy of their financial accounts, companies use auditors on a
+regular basis to verify accounting entries. The company’s employees make erroneous
+entries 5% of the time. Suppose that an auditor randomly checks three entries.
+
+a. Find the probability distribution for Y , the number of errors detected by the auditor.
+b. Construct a probability histogram for p(y).
+c. Find the probability that the auditor will detect more than one error.
+ 
+
+71. Persons entering a blood bank are such that 1 in 3 have type O+ blood and 1 in 15
+have type O− blood. Consider three randomly selected donors for the blood bank. Let
+X denote the number of donors with type O+ blood and Y denote the number with
+type O− blood. Find the probability distributions for X and Y . Also find the
+probability distribution for X + Y , the number of donors who have type O blood.
+ 
+
+72. The probability distribution for a random variable Y is given in table. Find the mean,
+variance, and standard deviation of Y .
+
+ 
+
+73. The manager of an industrial plant is planning to buy a new machine of either type A
+or type B. If t denotes the number of hours of daily operation, the number of daily
+repairs Y1 required to maintain a machine of type A is a random variable with mean
+and variance both equal to .10t. The number of daily repairs Y2 for a machine of type
+B is a random variable with mean and variance both equal to .12t. The daily cost of
+operating A is CA(t) = 10t + 30Y12 ; for B it is CB(t) = 8t + 30Y22. Assume that the
+repairs take negligible time and that each night the machines are tuned so that they
+operate essentially like new machines at the start of the next day. Which machine
+minimizes the expected daily cost if a workday consists of (a) 10 hours and (b) 20
+hours?
+
+ 
+
+74. An insurance company issues a one-year $1000 policy insuring against an occurrence
+A that historically happens to 2 out of every 100 owners of the policy. Administrative
+fees are $15 per policy and are not part of the company’s “profit.” How much should
+the company charge for the policy if it requires that the expected profit per policy be
+$50? [Hint: If C is the premium for the policy, the company’s “profit” is C−15 if A
+does not occur and C−15−1000 if A does occur.]
+ 
+
+75. Who is the king of late night TV? An Internet survey estimates that, when given a
+choice between David Letterman and Jay Leno, 52% of the population prefers to
+watch Jay Leno. Three late night TV watchers are randomly selected and asked which
+of the two talk show hosts they prefer.
+a. Find the probability distribution for Y, the number of viewers in the sample who
+prefer Leno.
+b. Construct a probability histogram for p(y).
+c. What is the probability that exactly one of the three viewers prefers Leno?
+d. What are the mean and standard deviation for Y?
+e. What is the probability that the number of viewers favoring Leno falls within 2
+standard deviations of the mean?
+ 
+
+76. In a gambling game a person draws a single card from an ordinary 52-card playing
+deck. A person is paid $15 for drawing a jack or a queen and $5 for drawing a king or
+an ace. A person who draws any other card pays $4. If a person plays this game, what
+is the expected gain?
+ 
+
+77. Two construction contracts are to be randomly assigned to one or more of three firms:
+I, II, and III. Any firm may receive both contracts. If each contract will yield a profit
+of $90,000 for the firm, find the expected profit for firm I. If firms I and II are actually
+owned by the same individual, what is the owner’s expected total profit?
+ 
+
+78. A potential customer for an $85,000 fire insurance policy possesses a home in an area
+that, according to experience, may sustain a total loss in a given year with probability
+of .001 and a 50% loss with probability .01. Ignoring all other partial losses, what
+premium should the insurance company charge for a yearly policy in order to break
+even on all $85,000 policies in this area?
+ 
+
+79. Suppose that Y is a discrete random variable with mean μ and variance σ 2 and let W =
+2Y.
+a. Do you expect the mean of W to be larger than, smaller than, or equal to μ=E(Y)?
+Why?
+b. Express E(W) = E(2Y ) in terms of μ = E(Y ). Does this result agree with your answer
+to part (a)?
+c. Recalling that the variance is a measure of spread or dispersion, do you expect the
+variance of W to be larger than, smaller than, or equal to σ 2 = V(Y )? Why?
+
+d. Use the result in part (b) to show that V(W) = E{[W − E(W)]2} = E[4(Y − μ)2] = 4σ2;
+that is, W = 2Y has variance four times that of Y .
+ 
+
+80. Let Y be a discrete random variable with mean μ and variance σ2. If a and b are
+constants, prove that,
+a. E(aY + b) = aE(Y ) + b = aμ + b.
+b. V(aY + b) = a2V(Y ) = a2σ2.
+ 
+
+81. Consider the population of voters described in Example 3.6. Suppose that there are N
+= 5000 voters in the population, 40% of whom favor Jones. Identify the event favors
+Jones as a success S. It is evident that the probability of S on trial 1 is .40. Consider
+the event B that S occurs on the second trial. Then B can occur two ways: The first
+two trials are both successes or the first trial is a failure and the second is a success.
+Show that P(B) = .4. What is P(B| the first trial is S)? Does this conditional probability
+differ markedly from P(B)?
+ 
+
+82. In 2003, the average combined SAT score (math and verbal) for college-bound
+students in the United States was 1026. Suppose that approximately 45% of all high
+school graduates took this test and that 100 high school graduates are randomly
+selected from among all high school grads in the United States. Which of the
+following random variables has a distribution that can be approximated by a binomial
+distribution? Whenever possible, give the values for n and p.
+a. The number of students who took the SAT
+b. The scores of the 100 students in the sample
+c. The number of students in the sample who scored above average on the SAT
+d. The amount of time required by each student to complete the SAT
+e. The number of female high school grads in the sample
+ 
+
+83. A complex electronic system is built with a certain number of backup components in
+its subsystems. One subsystem has four identical components, each with a probability
+of .2 of failing in less than 1000 hours. The subsystem will operate if any two of the
+four components are operating. Assume that the components operate independently.
+Find the probability that
+a. exactly two of the four components last longer than 1000 hours.
+b. the subsystem operates longer than 1000 hours.
+ 
+
+84. A multiple-choice examination has 15 questions, each with five possible answers, only
+one of which is correct. Suppose that one of the students who takes the examination
+answers each of the questions with an independent random guess. What is the
+probability that he answers at least ten questions correctly?
+
+ 
+
+85. Many utility companies promote energy conservation by offering discount rates to
+consumers who keep their energy usage below certain established subsidy standards.
+A recent EPA report notes that 70% of the island residents of Puerto Rico have
+reduced their electricity usage sufficiently to qualify for discounted rates. If five
+residential subscribers are randomly selected from San Juan, Puerto Rico, find the
+probability of each of the following events:
+a. All five qualify for the favorable rates.
+b. At least four qualify for the favorable rates.
+ 
+
+86. A fire-detection device utilizes three temperature-sensitive cells acting independently
+of each other in such a manner that any one or more may activate the alarm. Each cell
+possesses a probability of p = .8 of activating the alarm when the temperature reaches
+100◦ Celsius or more. Let Y equal the number of cells activating the alarm when the
+temperature reaches 100◦.
+a. Find the probability distribution for Y .
+b. Find the probability that the alarm will function when the temperature reaches 100◦.
+ 
+
+87. Tay-Sachs disease is a genetic disorder that is usually fatal in young children. If both
+parents are carriers of the disease, the probability that their offspring will develop the
+disease is approximately .25. Suppose that a husband and wife are both carriers and
+that they have three children. If the outcomes of the three pregnancies are mutually
+independent, what are the probabilities of the following events?
+a. All three children develop Tay-Sachs.
+b. Only one child develops Tay-Sachs.
+c. The third child develops Tay-Sachs, given that the first two did not.
+ 
+
+88. In the 18th century, the Chevalier de Mere asked Blaise Pascal to compare the
+probabilities of two events. Below, you will compute the probability of the two events
+that, prior to contrary gambling experience, were thought by de Mere to be equally
+likely.
+a. What is the probability of obtaining at least one 6 in four rolls of a fair die?
+b. If a pair of fair dice is tossed 24 times, what is the probability of at least one double
+six?
+ 
+
+89. A manufacturer of floor wax has developed two new brands, A and B, which she
+wishes to subject to homeowners’ evaluation to determine which of the two is
+superior. Both waxes, A and B, are applied to floor surfaces in each of 15 homes.
+
+Assume that there is actually no difference in the quality of the brands. What is the
+probability that ten or more homeowners would state a preference for
+a. brand A?
+b. either brand A or brand B?
+ 
+
+90. Suppose that Y is a binomial random variable with n > 2 trials and success probability
+p. Use the technique presented in Theorem 3.7 and the fact that
+E{Y (Y −1)(Y −2)} = E(Y3)− 3E(Y 2) + 2E(Y ) to derive E(Y 3).
+ 
+
+91. Ten motors are packaged for sale in a certain warehouse. The motors sell for $100
+each, but a double-your-money-back guarantee is in effect for any defectives the
+purchaser may receive. Find the expected net gain for the seller if the probability of
+any one motor being defective is .08. (Assume that the quality of any one motor is
+independent of that of the others.)
+ 
+
+92. Of the volunteers donating blood in a clinic, 80% have the Rhesus (Rh) factor present
+in their blood.
+a. If five volunteers are randomly selected, what is the probability that at least one does
+not have the Rh factor?
+b. If five volunteers are randomly selected, what is the probability that at most four have
+the Rh factor?
+c. What is the smallest number of volunteers who must be selected if we want to be at
+least 90% certain that we obtain at least five donors with the Rh factor?
+ 
+
+93. Suppose that the probability of engine malfunction during any one-hour period is p =
+.02. Find the probability that a given engine will survive two hours.
+ 
+
+94. If the probability of engine malfunction during any one-hour period is p = .02 and Y
+denotes the number of one-hour intervals until the first malfunction, find the mean and
+standard deviation of Y .
+ 
+
+95. Suppose that 30% of the applicants for a certain industrial job possess advanced
+training in computer programming. Applicants are interviewed sequentially and are
+selected at random from the pool. Find the probability that the first applicant with
+advanced training in programming is found on the fifth interview.
+ 
+
+96. About six months into GeorgeW. Bush’s second term as president, a Gallup poll
+indicated that a near record (low) level of 41% of adults expressed “a great deal” or
+“quite a lot” of confidence in the U.S. Supreme Court Suppose that you conducted
+your own telephone survey at that time and randomly called people and asked them to
+describe their level of confidence in the Supreme Court. Find the probability
+distribution for Y , the number of calls until the first person is found who does not
+express “a great deal” or “quite a lot” of confidence in the U.S. Supreme Court.
+ 
+
+97. Let Y denote a geometric random variable with probability of success p.
+a. Show that for a positive integer a, P(Y > a) = qa .
+b. Show that for positive integers a and b, P(Y > a + b|Y > a) = qb = P(Y > b).
+This result implies that, for example, P(Y > 7|Y > 2) = P(Y > 5). Why do you think this
+property is called the memoryless property of the geometric distribution?
+c. In the development of the distribution of the geometric random variable, we assumed
+that the experiment consisted of conducting identical and independent trials until the
+first success was observed. In light of these assumptions, why is the result in part (b)
+“obvious”?
+ 
+
+98. A certified public accountant (CPA) has found that nine of ten company audits contain
+substantial errors. If the CPA audits a series of company accounts, what is the
+probability that the first account containing substantial errors
+a. is the third one to be audited?
+b. will occur on or after the third audited account?
+ 
+
+99. The probability of a customer arrival at a grocery service counter in any one second is
+equal to .1. Assume that customers arrive in a random stream and hence that an arrival
+in any one second is independent of all others. Find the probability that the first arrival
+a. will occur during the third one-second interval.
+b. will not occur until at least the third one-second interval.
+
+ 
+
+100. How many times would you expect to toss a balanced coin in order to obtain the first
+head?
+ 
+
+101.
+
+In responding to a survey question on a sensitive topic (such as “Have you ever
+
+tried marijuana?”), many people prefer not to respond in the affirmative. Suppose that
+80% of the population have not tried marijuana and all of those individuals will
+truthfully answer no to your question. The remaining 20% of the population have tried
+marijuana and 70% of those individuals will lie. Derive the probability distribution of
+Y , the number of people you would need to question in order to obtain a single
+affirmative response.
+ 
+
+102.
+
+A geological study indicates that an exploratory oil well drilled in a particular
+
+region should strike oil with probability .2. Find the probability that the third oil strike
+comes on the fifth well drilled.
+ 
+
+103.
+
+A large stockpile of used pumps contains 20% that are in need of repair. A
+
+maintenance worker is sent to the stockpile with three repair kits. She selects pumps at
+random and tests them one at a time. If the pump works, she sets it aside for future
+use. However, if the pump does not work, she uses one of her repair kits on it.
+Suppose that it takes 10 minutes to test a pump that is in working condition and 30
+minutes to test and repair a pump that does not work. Find the mean and variance of
+the total time it takes the maintenance worker to use her three repair kits.
+ 
+
+104.
+
+A geological study indicates that an exploratory oil well should strike oil with
+
+probability .2.
+a. What is the probability that the first strike comes on the third well drilled?
+b. What is the probability that the third strike comes on the seventh well drilled?
+c. What assumptions did you make to obtain the answers to parts (a) and (b)?
+d. Find the mean and variance of the number of wells that must be drilled if the company
+wants to set up three producing wells.
+
+ 
+
+105.
+
+The employees of a firm that manufactures insulation are being tested for
+
+indications of asbestos in their lungs. The firm is requested to send three employees
+who have positive indications of asbestos on to a medical center for further testing. If
+each test costs $20, find the expected value and variance of the total cost of
+conducting the tests necessary to locate the three positives.
+ 
+
+106.
+
+Ten percent of the engines manufactured on an assembly line are defective.
+
+What is the probability that the third nondefective engine will be found
+a. on the fifth trial?
+b. on or before the fifth trial?
+c. Given that the first two engines tested were defective, what is the probability that at
+least two more engines must be tested before the first nondefective is found?
+d. Find the mean and variance of the number of the trial on which a the first nondefective
+engine is found.
+e. Find the mean and variance of the number of the trial on which the third nondefective
+engine is found.
+ 
+
+c.
+
+107.
+
+In a sequence of independent identical trials with two possible outcomes on
+
+each trial, S and F, and with P(S) = p, what is the probability that exactly y trials will
+occur before the r th success?
+ 
+
+108.
+
+An important problem encountered by personnel directors and others faced
+
+with the selection of the best in a finite set of elements is exemplified by the following
+scenario. From a group of 20 Ph.D. engineers, 10 are randomly selected for
+employment. What is the probability that the 10 selected include all the 5 best
+engineers in the group of 20?
+
+
+
+109.
+
+An industrial product is shipped in lots of 20. Testing to determine whether an
+
+item is defective is costly, and hence the manufacturer samples his production rather
+than using a 100% inspection plan. A sampling plan, constructed to minimize the
+number of defectives shipped to customers, calls for sampling five items from each lot
+and rejecting the lot if more than one defective is observed. (If the lot is rejected, each
+item in it is later tested.) If a lot contains four defectives, what is the probability that it
+will be rejected? What is the expected number of defectives in the sample of size 5?
+What is the variance of the number of defectives in the sample of size 5?
+
+ 
+
+110.
+
+A warehouse contains ten printing machines, four of which are defective. A
+
+company selects five of the machines at random, thinking all are in working condition.
+What is the probability that all five of the machines are nondefective?
+ 
+
+111.
+
+In southern California, a growing number of individuals pursuing teaching
+
+credentials are choosing paid internships over traditional student teaching programs. A
+group of eight candidates for three local teaching positions consisted of five who had
+enrolled in paid internships and three who enrolled in traditional student teaching
+programs. All eight candidates appear to be equally qualified, so three are randomly
+selected to fill the open positions. Let Y be the number of internship trained candidates
+who are hired.
+a. Does Y have a binomial or hypergeometric distribution? Why?
+b. Find the probability that two or more internship trained candidates are hired.
+c. What are the mean and standard deviation of Y?
+
+ 
+
+112.
+
+Seed are often treated with fungicides to protect them in poor draining, wet
+
+environments. A small-scale trial, involving five treated and five untreated seeds, was
+conducted prior to a large-scale experiment to explore how much fungicide to apply.
+The seeds were planted in wet soil, and the number of emerging plants were counted.
+If the   was not effective and four plants actually sprouted, what is the
+probability that
+a. all four plants emerged from treated seeds?
+b. three or fewer emerged from treated seeds?
+c. at least one emerged from untreated seeds?
+ 
+
+113.
+
+A group of six software packages available to solve a linear programming
+
+problem has been ranked from 1 to 6 (best to worst). An engineering firm, unaware of
+the rankings, randomly selected and then purchased two of the packages. Let Y denote
+the number of packages purchased by the firm that are ranked 3, 4, 5, or 6. Give the
+probability distribution for Y.
+ 
+
+114.
+
+Specifications call for a thermistor to test out at between 9000 and 10,000
+
+ohms at 25◦ Celcius. Ten thermistors are available, and three of these are to be
+selected for use. Let Y denote the number among the three that do not conform to
+specifications. Find the probability distributions for Y (in tabular form) under the
+following conditions:
+a. Two thermistors do not conform to specifications among the ten that are available.
+b. Four thermistors do not conform to specifications among the ten that are available.
+ 
+
+115.
+
+A jury of 6 persons was selected from a group of 20 potential jurors, of whom
+
+8 were African American and 12 were white. The jury was supposedly randomly
+selected, but it contained only 1 African American member. Do you have any reason
+to doubt the randomness of the selection?
+ 
+
+116.
+
+Suppose that a radio contains six transistors, two of which are defective. Three
+
+transistors are selected at random, removed from the radio, and inspected. Let Y equal
+the number of defectives observed, where Y = 0, 1, or 2. Find the probability
+distribution for Y.
+ 
+
+117.
+
+In an assembly-line production of industrial robots, gearbox assemblies can be
+
+installed in one minute each if holes have been properly drilled in the boxes and in ten
+minutes if the holes must be redrilled. Twenty gearboxes are in stock, 2 with
+improperly drilled holes. Five gearboxes must be selected from the 20 that are
+available for installation in the next five robots.
+a. Find the probability that all 5 gearboxes will fit properly.
+b. Find the mean, variance, and standard deviation of the time it takes to install these 5
+gearboxes.
+ 
+
+118.
+
+Cards are dealt at random and without replacement from a standard 52 card
+
+deck. What is the probability that the second king is dealt on the fifth card?
+ 
+
+119.
+
+Show that the probabilities assigned by the Poisson probability distribution
+
+satisfy the requirements that 0 ≤ p(y) ≤ 1 for all y and ∑ p(y) = 1
+ 
+
+120.
+
+Suppose that a random system of police patrol is devised so that a patrol officer
+
+may visit a given beat location Y = 0, 1, 2, 3, . . . times per half-hour period, with each
+location being visited an average of once per time period. Assume that Y possesses,
+approximately, a Poisson probability distribution. Calculate the probability that the
+patrol officer will miss a given location during a half-hour period. What is the
+probability that it will be visited once? Twice? At least once?
+ 
+
+121.
+
+A certain type of tree has seedlings randomly dispersed in a large area, with the
+
+mean density of seedlings being approximately five per square yard. If a forester
+randomly locates ten 1-square-yard sampling regions in the area, find the probability
+that none of the regions will contain seedlings.
+ 
+
+122.
+
+Industrial accidents occur according to a Poisson process with an average of
+
+three accidents per month. During the last two months, ten accidents occurred. Does
+this number seem highly improbable if the mean number of accidents per month, μ, is
+still equal to 3? Does it indicate an increase in the mean number of accidents per
+month?
+ 
+
+123.
+
+Let Y denote a random variable that has a Poisson distribution with mean λ =
+
+2. Find
+a. P(Y = 4).
+b. P(Y ≥ 4).
+c. P(Y < 4).
+d. P(Y ≥ 4|Y ≥ 2).
+ 
+
+124.
+
+The random variable Y has a Poisson distribution and is such that p(0) = p(1).
+
+What is p(2)?
+ 
+
+125.
+
+Customers arrive at a checkout counter in a department store according to a
+
+Poisson distribution at an average of seven per hour. If it takes approximately ten
+minutes to serve each customer, find the mean and variance of the total service time
+for customers arriving during a 1-hour period. (Assume that a sufficient number of
+servers are available so that no customer must wait for service.) Is it likely that the
+total service time will exceed 2.5 hours?
+ 
+
+126.
+
+The number of typing errors made by a typist has a Poisson distribution with an
+
+average of four errors per page. If more than four errors appear on a given page, the
+typist must retype the whole page. What is the probability that a randomly selected
+page does not need to be retyped?
+ 
+
+127.
+
+The number of knots in a particular type of wood has a Poisson distribution
+
+with an average of 1.5 knots in 10 cubic feet of the wood. Find the probability that a
+10-cubic-foot block of the wood has at most 1 knot.
+ 
+
+128.
+
+Assume that the tunnel in Exercise 3.132 is observed during ten two-minute
+
+intervals, thus giving ten independent observations 𝑌1, 𝑌2, . . . , 𝑌10, on the Poisson
+random variable. Find the probability that Y > 3 during at least one of the ten twominute intervals.
+ 
+
+129.
+
+A salesperson has found that the probability of a sale on a single contact is
+
+approximately .03. If the salesperson contacts 100 prospects, what is the approximate
+probability of making at least one sale?
+ 
+
+130.
+
+The probability that a mouse inoculated with a serum will contract a certain
+
+disease is .2. Using the Poisson approximation, find the probability that at most 3 of
+30 inoculated mice will contract the disease.
+ 
+
+131.
+
+In the daily production of a certain kind of rope, the number of defects per foot
+
+Y is assumed to have a Poisson distribution with mean λ = 2. The profit per foot when
+the rope is sold is given by X, where X = 50 − 2Y − Y 2. Find the expected profit per
+foot.
+ 
+
+132.
+
+A food manufacturer uses an extruder (a machine that produces bite-size
+
+cookies and snack food) that yields revenue for the firm at a rate of $200 per hour
+when in operation. However, the extruder breaks down an average of two times every
+day it operates. If Y denotes the number of breakdowns per day, the daily revenue
+generated by the machine is R = 1600−50Y 2. Find the expected daily revenue for the
+extruder.
+ 
+
+133.
+
+The number of customers per day at a sales counter, Y , has been observed for
+
+a long period of time and found to have mean 20 and standard deviation 2. The
+probability distribution of Y is not known. What can be said about the probability that,
+tomorrow, Y will be greater than 16 but less than 24?
+ 
+
+134.
+
+Let Y be a random variable with mean 11 and variance 9. Using Tchebysheff’s
+
+theorem, find
+a. a lower bound for P(6 < Y < 16).
+b. the value of C such that P(|Y − 11| ≥ C) ≤ .09.
+ 
+
+135.
+
+This exercise demonstrates that, in general, the results provided by
+
+Tchebysheff’s theorem cannot be improved upon. Let Y be a random variable such
+that
+𝑝(−1) = 1/18 , 𝑝(0) = 16/ 18 , 𝑝(1) = 1/18
+a. Show that E(Y ) = 0 and V(Y ) = 1/9.
+b. Use the probability distribution of Y to calculate P(|Y − μ| ≥ 3σ). Compare this exact
+probability with the upper bound provided by Tchebysheff’s theorem to see that the
+bound provided by Tchebysheff’s theorem is actually attained when k = 3.
+ 
+
+136.
+
+For a certain type of soil the number of wireworms per cubic foot has a mean
+
+of 100. Assuming a Poisson distribution of wireworms, give an interval that will
+include at least 5/9 of the sample values of wireworm counts obtained from a large
+number of 1-cubic-foot samples.
+ 
+
+137.
+
+A balanced coin is tossed three times. Let Y equal the number of heads
+
+observed.
+a. Use the formula for the binomial probability distribution to calculate the probabilities
+associated with Y = 0, 1, 2, and 3.
+b. Construct a probability distribution similar to the one in Table 3.1.
+c. Find the expected value and standard deviation of Y , using the formulas E(Y ) = np
+and V(Y ) = npq.
+
+d. Using the probability distribution from part (b), find the fraction of the population
+measurements lying within 1 standard deviation of the mean. Repeat for 2 standard
+deviations.
+e. How do your results compare with the results of Tchebysheff’s theorem and the
+empirical rule?
+ 
+
+138.
+
+In May 2005, Tony Blair was elected to an historic third term as the British
+
+prime
+
+minister.
+
+A
+
+Gallop
+
+U.K.
+
+poll
+
+(http://gallup.com/poll/content/default.aspx?ci=1710, June 28, 2005) conducted after
+Blair’s election indicated that only 32% of British adults would like to see their son or
+daughter grows up to become prime minister. If the same proportion of Americans
+would prefer that their son or daughter grow up to be president and 120 American
+adults are interviewed,
+a. what is the expected number of Americans who would prefer their child grow up to be
+president?
+b. what is the standard deviation of the number Y who would prefer that their child grow
+up to be president?
+c. is it likely that the number of Americans who prefer that their child grow up to be
+president exceeds 40?
+
+ 
+
+139.
+
+For a certain section of a pine forest, the number of diseased trees per acre, Y ,
+
+has a Poisson distribution with mean λ = 10. The diseased trees are sprayed with an
+insecticide at a cost of $3 per tree, plus a fixed overhead cost for equipment rental of
+$50. Letting C denote the total spraying cost for a randomly selected acre, find the
+expected value and standard deviation for C. Within what interval would you expect C
+to lie with probability at least .75?
+ 
+
+
+140.
+
+Let Y be a continuous random variable with probability density function given
+
+by
+
+Find F(y). Graph both f (y) and F(y).
+ 
+
+141.
+
+Given 𝑓 (𝑦) = 𝑐𝑦 , 0 ≤ 𝑦 ≤ 2, and 𝑓 (𝑦) = 0 elsewhere, find the value of
+
+𝑐 for which 𝑓 (𝑦) is a valid density function.
+ 
+
+142.
+
+Let Y be a random variable with p(y) given in the table below.
+
+a. Give the distribution function, F(y). Be sure to specify the value of F(y) for all y,
+−∞ <y < ∞.
+b. Sketch the distribution function given in part (a).
+ 
+
+b.
+
+143.
+
+Suppose that Y is a random variable that takes on only integer values 1, 2, . . .
+
+and has distribution function F(y). Show that the probability function p(y) = P(Y = y)
+is given by
+
+ 
+
+144.
+
+A random variable Y has the following distribution function:
+
+a. Is Y a continuous or discrete random variable? Why?
+b. What values of Y are assigned positive probabilities?
+c. Find the probability function for Y.
+d. What is the median, φ.5, of Y ?
+ 
+
+145.
+
+Suppose that Y possesses the density function
+
+a. Find the value of c that makes f (y) a probability density function.
+b. Find F(y).
+c. Graph f (y) and F(y).
+d. Use F(y) to find P(1 ≤ Y ≤ 2).
+e. Use f (y) and geometry to find P(1 ≤ Y ≤ 2).
+ 
+
+c.
+
+146.
+
+A supplier of kerosene has a 150-gallon tank that is filled at the beginning of
+
+each week. His weekly demand shows a relative frequency behavior that increases
+steadily up to 100 gallons and then levels off between 100 and 150 gallons. If Y
+denotes weekly demand in hundreds of gallons, the relative frequency of demand can
+be modeled by
+
+a. Find F(y).
+b. Find P(0 ≤ Y ≤ .5).
+c. Find P(.5 ≤ Y ≤ 1.2).
+ 
+
+Let the distribution function of a random variable Y be
+
+147.
+
+a.
+
+Find the density function of Y .
+
+b.
+
+Find P(1 ≤ Y ≤ 3).
+
+c.
+
+Find P(Y ≥ 1.5).
+
+d.
+
+Find P(Y ≥ 1|Y ≤ 3).
+
+ 
+
+148.
+
+Suppose that Y has density function
+
+find the mean and variance of Y .
+ 
+
+149.
+
+If Y has distribution function,
+
+find the mean and variance of Y .
+ 
+
+150.
+
+For certain ore samples, the proportion Y of impurities per sample is a random
+
+variable with density function given by,
+
+The dollar value of each sample is W = 5−0.5Y . Find the mean and variance of W.
+
+ 
+
+151.
+
+The temperature Y at which a thermostatically controlled switch turns on has
+
+probability density function given by
+
+Find E(Y) and V(Y).
+ 
+
+152.
+
+The pH of water samples from a specific lake is a random variable Y with
+
+probability density function given by
+
+a. Find E(Y) and V(Y ).
+b. Find an interval shorter than (5, 7) in which at least three-fourths of the pH
+measurements must lie.
+c. Would you expect to see a pH measurement below 5.5 very often? Why?
+
+ 
+
+153.
+
+Daily total solar radiation for a specified location in Florida in October has
+
+probability density function given by
+
+with measurements in hundreds of calories. Find the expected daily solar radiation for
+October.
+ 
+
+154.
+
+If Y is a continuous random variable such that E[(Y −a) 2] < ∞ for all a, show
+
+that E[(Y −a)2] is minimized when a = E(Y).
+[Hint: E[(Y − a)2] = E({[Y − E(Y )] + [E(Y ) − a]}2).]
+ 
+
+155.
+
+Arrivals of customers at a checkout counter follow a Poisson distribution. It is
+
+known that, during a given 30-minute period, one customer arrived at the counter.
+Find the probability that the customer arrived during the last 5 minutes of the 30minute period.
+ 
+
+156.
+
+If a parachutist lands at a random point on a line between markers A and B,
+
+find the probability that she is closer to A than to B. Find the probability that her
+distance to A is more than three times her distance to B.
+ 
+
+157.
+
+A random variable Y has a uniform distribution over the interval (θ1, θ2).
+
+Derive the variance of Y .
+ 
+
+158.
+
+A circle of radius r has area A = πr 2. If a random circle has a radius that is
+
+uniformly distributed on the interval (0, 1), what are the mean and variance of the area
+of the circle?
+ 
+
+159.
+
+Upon studying
+
+low
+
+bids
+
+for
+
+shipping
+
+contracts,
+
+a microcomputer
+
+manufacturing company finds that intrastate contracts have low bids that are uniformly
+distributed between 20 and 25, in units of thousands of dollars. Find the probability
+that the low bid on the next intrastate shipping contract
+a. is below $22,000.
+b. is in excess of $24,000.
+ 
+
+160.
+
+The failure of a circuit board interrupts work that utilizes a computing system
+
+until a new board is delivered. The delivery time, Y , is uniformly distributed on the
+interval one to five days. The cost of a board failure and interruption includes the fixed
+cost c0 of a new board and a cost that increases proportionally to Y2. If C is the cost
+incurred,
+
+C = c0 + c1Y2.
+
+a. Find the probability that the delivery time exceeds two days.
+b. In terms of c0 and c1, find the expected cost associated with a single failed circuit
+board.
+
+ 
+
+161.
+
+A telephone call arrived at a switchboard at random within a one-minute
+
+interval. The switch board was fully busy for 15 seconds into this one-minute period.
+What is the probability that the call arrived when the switchboard was not fully busy?
+ 
+
+162.
+
+The cycle time for trucks hauling concrete to a highway construction site is
+
+uniformly distributed over the interval 50 to 70 minutes. What is the probability that
+the cycle time exceeds 65 minutes if it is known that the cycle time exceeds 55
+minutes?
+ 
+
+163.
+
+The number of defective circuit boards coming off a soldering machine follows
+
+a Poisson distribution. During a specific eight-hour day, one defective circuit board
+was found.
+a. Find the probability that it was produced during the first hour of operation during that
+day.
+b. Find the probability that it was produced during the last hour of operation during that
+day.
+c. Given that no defective circuit boards were produced during the first four hours of
+operation, find the probability that the defective board was manufactured during the
+fifth hour.
+
+ 
+
+164.
+
+Let Z denote a normal random variable with mean 0 and standard deviation 1.
+
+a. Find P(Z > 2).
+b. Find P(−2 ≤ Z ≤ 2).
+c. Find P(0 ≤ Z ≤ 1.73).
+ 
+
+165.
+
+The achievement scores for a college entrance examination are normally
+
+distributed with mean 75 and standard deviation 10. What fraction of the scores lies
+between 80 and 90?
+ 
+
+166.
+
+If Z is a standard normal random variable, find the value z0 such that
+
+a. P(Z > z0) = .5.
+b. P(Z < z0) = .8643.
+c. P(−z0 < Z < z0) = .90.
+d. P(−z0 < Z < z0) = .99.
+ 
+
+167.
+
+What is the median of a normally distributed random variable with mean μ and
+
+standard deviation σ?
+ 
+
+168.
+
+A company that manufactures and bottles apple juice uses a machine that
+
+automatically fills 16-ounce bottles. There is some variation, however, in the amounts
+of liquid dispensed into the bottles that are filled. The amount dispensed has been
+observed to be approximately normally distributed with mean 16 ounces and standard
+deviation 1 ounce. determine the proportion of bottles that will have more than 17
+ounces dispensed into them.
+ 
+
+169.
+
+The weekly amount of money spent on maintenance and repairs by a company
+
+was observed, over a long period of time, to be approximately normally distributed
+with mean $400 and standard deviation $20. How much should be budgeted for
+weekly repairs and maintenance to provide that the probability the budgeted amount
+will be exceeded in a given week is only .1?
+ 
+
+170.
+
+A machining operation produces bearings with diameters that are normally
+
+distributed with mean 3.0005 inches and standard deviation .0010 inch. Specifications
+require the bearing diameters to lie in the interval 3.000±.0020 inches. Those outside
+the interval are considered scrap and must be remachined. What should the mean
+diameter be in order that the fraction of bearings scrapped be minimized?
+ 
+
+171.
+
+The grade point averages (GPAs) of a large population of college students are
+
+approximately normally distributed with mean 2.4 and standard deviation .8. If
+students possessing a GPA less than 1.9 are dropped from college, what percentage of
+the students will be dropped?
+ 
+
+172.
+
+Wires manufactured for use in a computer system are specified to have
+
+resistances between .12 and .14 ohms. The actual measured resistances of the wires
+produced by company A have a normal probability distribution with mean .13 ohm
+and standard deviation .005 ohm.
+a. What is the probability that a randomly selected wire from company A’s production
+will meet the specifications?
+b. If four of these wires are used in each computer system and all are selected from
+company A, what is the probability that all four in a randomly selected system will
+meet the specifications?
+ 
+
+173.
+
+The width of bolts of fabric is normally distributed with mean 950 mm
+
+(millimeters) and standard deviation 10 mm.
+a. What is the probability that a randomly chosen bolt has a width of between 947 and
+958mm?
+b. What is the appropriate value for C such that a randomly chosen bolt has a width less
+than C with probability .8531?
+ 
+
+174.
+
+A soft-drink machine can be regulated so that it discharges an average of μ
+
+ounces per cup. If the ounces of fill are normally distributed with standard deviation
+0.3 ounce, give the setting for μ so that 8-ounce cups will overflow only 1% of the
+time.
+ 
+
+175.
+
+The SAT and ACT college entrance exams are taken by thousands of students
+
+each year. The mathematics portions of each of these exams produce scores that are
+approximately normally distributed. In recent years, SAT mathematics exam scores
+have averaged 480 with standard deviation 100. The average and standard deviation
+for ACT mathematics scores are 18 and 6,respectively.
+a. An engineering school sets 550 as the minimum SAT math score for new students.
+What percentage of students will score below 550 in a typical year?
+b. What score should the engineering school set as a comparable standard on the ACT
+math test?
+ 
+
+176.
+
+Show that the normal density with parameters μ and σ has inflection points at
+
+the values μ−σ and μ + σ. (Recall that an inflection point is a point where the curve
+changes direction from concave up to concave down, or vice versa, and occurs when
+the second derivative change sign. Such a change in sign may occur when the second
+derivative equals zero.)
+
+ 
+
+177.
+
+a. If α > 0, Γ(α) is defined by Γ (α) =∫ y
+
+e
+
+dy show that Γ (1) = 1.
+
+b. If α > 1, integrate by parts to prove that Γ (α) = (α − 1) Γ (α − 1).
+ 
+
+178.
+
+The operator of a pumping station has observed that demand for water during
+
+early afternoon hours has an approximately exponential distribution with mean 100 cfs
+(cubic feet per second).
+a. Find the probability that the demand will exceed 200 cfs during the early afternoon on
+a randomly selected day.
+b. What water-pumping capacity should the station maintain during early afternoons so
+that the probability that demand will exceed capacity on a randomly selected day is
+only .01?
+ 
+
+179.
+
+If Y has an exponential distribution and P(Y > 2) = .0821, what is
+
+a. β = E(Y)?
+b. P(Y ≤ 1.7)?
+ 
+
+180.
+
+Historical evidence indicates that times between fatal accidents on scheduled
+
+American domestic passenger flights have an approximately exponential distribution.
+Assume that the mean time between accidents is 44 days.
+a. If one of the accidents occurred on July 1 of a randomly selected year in the study
+period, what is the probability that another accident occurred that same month?
+b. What is the variance of the times between accidents?
+ 
+
+181.
+
+A manufacturing plant uses a specific bulk product. The amount of product
+
+used in one day can be modeled by an exponential distribution with β = 4
+(measurements in tons). Find the probability that the plant will use more than 4 tons
+on a given day.
+ 
+
+182.
+
+The magnitude of earthquakes recorded in a region of North America can be
+
+modeled as having an exponential distribution with mean 2.4, as measured on the
+Richter scale. Suppose that the magnitude of earthquakes striking the region has a
+gamma distribution with α = .8 and β = 2.4.
+a. What is the mean magnitude of earthquakes striking the region?
+b. What is the probability that the magnitude an earthquake striking the region will
+exceed 3.0 on the Richter scale?
+c. Compare your answers to Exercise 4.88(a). Which probability is larger? Explain.
+d. What is the probability that an earthquake striking the regions will fall between 2.0
+and 3.0 on the Richter scale?
+ 
+
+183.
+
+Explosive devices used in mining operations produce nearly circular craters
+
+when detonated. The radii of these craters are exponentially distributed with mean 10
+feet. Find the mean and variance of the areas produced by these explosive devices.
+ 
+
+184.
+
+Four-week summer rainfall totals in a section of the Midwest United States
+
+have approximately a gamma distribution with α = 1.6 and β = 2.0.
+a. Find the mean and variance of the four-week rainfall totals.
+b. What is the probability that the four-week rainfall total exceeds 4 inches?
+ 
+
+185.
+
+The response times on an online computer terminal have approximately a
+
+gamma distribution with mean four seconds and variance eight seconds2.
+a. Use Tchebysheff’s theorem to give an interval that contains at least 75% of the
+response times.
+b. What is the actual probability of observing a response time in the interval you
+obtained in part (a)?
+ 
+
+186.
+
+The weekly amount of downtime Y (in hours) for an industrial machine has
+
+approximately a gamma distribution with α = 3 and β = 2. The loss L (in dollars) to the
+industrial operation as a result of this downtime is given by L = 30Y + 2Y 2.
+a. Find the expected value and variance of L.
+ 
+
+187.
+
+Suppose that Y has a gamma distribution with parameters α and β.
+
+a. If a is any positive or negative value such that α + a > 0, show that
+E(Ya) = βa(α + a)/(α)
+b. Why did your answer in part (a) require that α + a > 0?
+c. Show that, with a = 1, the result in part (a) gives E(Y ) = αβ.
+d. Use the result in part (a) to give an expression for E(√Y ). What do you need to
+assume about α?
+e. Use the result in part (a) to give an expression for E(1/Y ), E(1/ √Y ), and E(1/Y 2).
+What do you need to assume about α in each case?
+ 
+
+188.
+
+A gasoline wholesale distributor has bulk storage tanks that hold fixed supplies
+
+and are filled every Monday. Of interest to the wholesaler is the proportion of this
+supply that is sold during the week. Over many weeks of observation, the distributor
+found that this proportion could be modeled by a beta distribution with α = 4 and β =
+2. Find the probability that the wholesaler will sell at least 90% of her stock in a given
+week.
+ 
+
+189.
+
+The relative humidity Y , when measured at a location, has a probability
+
+density function given following. Find the value of k that makes f (y) a density
+function.
+
+ 
+
+190.
+
+The percentage of impurities per batch in a chemical product is a random
+
+variable Y with density function
+
+Find the mean and variance of the percentage of impurities in a randomly selected batch of
+the chemical.
+ 
+
+191.
+
+Verify that if Y has a beta distribution with α = β = 1, then Y has a uniform
+
+distribution over (0, 1). That is, the uniform distribution over the interval (0, 1) is a
+special case of a beta distribution.
+ 
+
+192.
+
+During an eight-hour shift, the proportion of time Y that a sheet-metal
+
+stamping machine is down for maintenance or repairs has a beta distribution with α =
+1 and β = 2. That is,
+
+a. The cost (in hundreds of dollars) of this downtime, due to lost production and cost
+of maintenance and repair, is given by C = 10 + 20Y + 4Y2. Find the mean and variance of C.
+b. Find an interval for which the probability that C will lie within it is at least .75.
+
+193.
+
+Errors in measuring the time of arrival of a wave front from an acoustic source
+
+sometimes have an approximate beta distribution. Suppose that these errors, measured
+in microseconds, have approximately a beta distribution with α = 1 and β = 2.
+a. What is the probability that the measurement error in a randomly selected instance is
+less than .5 μs?
+b. Give the mean and standard deviation of the measurement errors.
+ 
+
+194.
+
+The proportion of time per day that all checkout counters in a supermarket are
+
+busy is a random variable Y with a density function given by
+a. Find the value of c that makes f (y) a probability density function.
+b. Find E(Y ). (Use what you have learned about the beta-type distribution. )
+c. Calculate the standard deviation of Y .
+ 
+
+195.
+
+Find μk for the uniform random variable with θ1 = 0 and θ2 = θ for k=1,2,3.
+
+196.
+
+A machine used to fill cereal boxes dispenses, on the average, μ ounces per
+
+box. The manufacturer wants the actual ounces dispensed Y to be within 1 ounce of μ
+at least 75% of the time. What is the largest value of σ, the standard deviation of Y ,
+that can be tolerated if the manufacturer’s objectives are to be met?
+ 
+
+197.
+
+Find P(|Y − μ| ≤ 2σ) for the uniform random variable. Compare with the
+
+corresponding probabilistic statements given by Tchebysheff’s theorem and the
+empirical rule.
+ 
