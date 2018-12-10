@@ -1,0 +1,48 @@
+" 5. If the monthly standard deviation of a stock is 1%, what would the annual standard deviation be?"
+14. How do you calculate the logarithmic value of a stock return? Why would you do this?
+A portfolio manager is considering two stocks. Stock A has an annual expected return of 10% and an expected standard deviation of 20%. Stock B has an annual expected return of 15% and an expected standard deviation of 30%. What proportion of the portfolio should consist of stock A if the portfolio should have an expected return of 12%? What will the standard deviation of this portfolio be? What should the manager do if she wishes to minimize the volatility of the portfolio?
+A portfolio manager has chosen a stock for a client which has an average historical return of 2%/month and a standard deviation of 15%/month. What are the annual values?
+"A regression of a time series of monthly American Airline returns (RAA)on the variables fuel prices (FP) and average passenger revenue/mile (PR) results in the following equation: RAA = 0.056 - 0.0036 FP + 0.0118 PR where there are 120 data points, the standard error of the intercept is 0.035, the standard error of the coefficient of fuel price is 0.001 and the standard error of the passenger revenue/mile is 0.005. Which variables, if any, are significant?"
+If in the above regression we had found RAA = 0.056 + 0.0036 FP + 0.0118 PR what would you conclude regarding the suitability of this model?
+Consider a mutual fund prospectus that claims the fund’s manager “beat the market” each year over the past ten years by two percent. Assume that the standard deviation of the market over this period has been 20% on average. What do you think about his claim?
+ A portfolio manager has chosen for a client a stock with an average historical return of 15%/month and a standard deviation of 15%/month. What are the annual values? What is the probability that the rate of return of this stock will fall below zero for a given month? What range of values would be expected using a 95% confidence interval?
+"You have compiled estimates of annual returns and standard deviations for a certain time series of interest. Your boss claims that using more frequent data, such as daily data, will improve your estimates. What would you say to this?"
+How do you calculate the logarithmic value of a stock return? Why would you do this?
+"You purchase a stock for $100. The next day it goes to $200 and the following day back to $100. What are the average, mean and logarithmic returns over this period and what do you conclude about logarithmic returns on the basis of this example?"
+"You have sold 1000 shares of a stock short. The stock is currently at $100. How many call options at $11.01/call with a strike of $100 would be bought/sold to hedge this position if the delta of the call option is 0.589? Now, assume that the stock price moves to $120. What is your net position? How would you create a delta-gamma neutral portfolio?"
+"A hedge fund uses a “delta neutral” strategy to hedge equities. Basically, they hold shares of the underlying and buy an appropriate number of puts as dictated by delta of the put (or sell c calls). Pros/cons?"
+What is the gamma of a call option on a stock if the strike price is $100 and the stock is at $80?
+What are the Greeks?
+What is a collar strategy and when might it be used?
+"If puts aren’t offered on a stock but calls are, how would you synthetically create a position equivalent to a put?"
+What’s the maximum potential loss you could incur by selling a put on a stock?
+You buy a knock-in put option with strike of $50. The stock closes at expiry at $49. What is the value of your option?
+"Assume that you can borrow money at the risk free rate. You use this money to buy one put option on a stock and you sell one call option. Suppose both the call and put are equal at $5. At the end of the day, the stock price has moved so that the call is now worth $6 and the put $4. How could you lose money (You were perfectly hedged at the beginning of the day?)?"
+What is Black’s Model used for?
+"If you own Lucent stock and buy put options on it, are you perfectly hedged against price risk?"
+Can Black-Scholes be used to value bond options?
+How do you perform Monte Carlo analysis in valuing an option?
+Can Black-Scholes be used to value American puts? If not what would I use? 
+What is the difference between European and American options? Are the European options more expensive and more sophisticated?
+What is a volatility smile? What are the implications of this smile for the Black-Scholes model?
+How is the delta of a call and put on an option related?
+What is implied volatility? Is it better to use implied volatility or historical volatility in pricing an option?
+"If you are bullish on a stock, what kind of strategy might you adopt that will allow you to participate in some upside movement but be low cost?"
+Why would a person sell naked straddles on an index? Explain the expectations regarding movement of the underlying index.
+"You think that a stock price will rise in the next few months, but not very far over $40. What kind of option would allow you to profit from this move but be inexpensive?"
+"A treasurer expects short-term interest rates to rise, which would adversely impact his cost of funding. What should be his strategy?"
+The expected three-month LIBOR rate underlying a Eurodollars futures contract changes by 6 bp. What is the resulting change in value of the contract?
+“A call option on a Eurodollar Futures Contract is equivalent to a put option on LIBOR.” True or false? Why?
+What does delta mean? How is it used? 
+"If an option is deep in the money, what is it’s delta? What is gamma?"
+"If the current exchange rate between the USD and British Pound is 1.80$/_, the one-year treasury
+rate in the U.S. is 2.5% and the one year risk-free rate in the UK is 4%, what is the forward
+exchange rate $/_ in one year? Please explain.  Suppose that the forward exchange rate in one year is actually 2 $/_. Is an arbitrage opportunity available? If so, how would you profit?"
+"You have a T-bond maturing in 6 days to a par of $1,000. The risk-free rate is 2.5% per annum and the strike price of a call option is 105 (quoted as % of par). What is the value of this option?"
+How would you use the Black-Scholes model to price a call option on an FX contract?
+How are spot prices and forward prices related?
+Is the current futures price of a commodity a good predictor of the expected future spot rate?
+What is the implied three-month LIBOR starting in July if the July EDF futures contract price is 95.8?
+What is the value of a put option on an EDF future if the call price is $5.16 and the futures and strike price are 92.82?
+People say that options are dangerous. Can you explain this?
+What happens to the price of a call option if the underlying pays a dividend D? How about a stock split?

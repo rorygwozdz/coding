@@ -1,0 +1,64 @@
+11:13:26 Rory trading ~python3 trader.py
+Traceback (most recent call last):
+  File "trader.py", line 8, in <module>
+    todays_data = dict(['date', date])
+ValueError: dictionary update sequence element #0 has length 4; 2 is required
+11:14:32 Rory trading ~python3 trader.py
+Hey! It's 2018-11-24. Let's start with mental math.
+What is 0.66 times 68?
+38.82
+Not quite. The answer was 44.88.
+What is 0.54 times 16?
+8.64
+You got it!
+It's okay. You got 1 wrong out of 2 problems.
+Doing 2 problems took you 65 seconds. Average time per problem was 32.5 seconds.
+Traceback (most recent call last):
+  File "trader.py", line 26, in <module>
+    todays_data[labels[i]] = data[i]
+NameError: name 'todays_data' is not defined
+11:15:41 Rory trading ~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
