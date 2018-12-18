@@ -15,7 +15,7 @@ In pursuit of this you'll need a few scripts, a couple csvs, and a csv folder.
 
 1. news_updater.py
     * asks for a summary of the news, your portfolio, commentary on trades you're loooking at, and review of trades you've made.
-2. mental_math_tester.py
+2. mather.py
     * quizzes you on multiplication and percentages. records your scores and write them to a csv
 3. fin_quizzer.py
     * asks you the definition of a financial concept and an example of why it's important. Saves answers to csv. Has further application to iterating on better answers.
@@ -32,6 +32,8 @@ In pursuit of this you'll need a few scripts, a couple csvs, and a csv folder.
 
 TODO:
 1. news_updater.py
+2. mather.py
+    * add -o and -b
 3. finance_quizzer.py
 4. probability_tester.py
 5. market_maker.py

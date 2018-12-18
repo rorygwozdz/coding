@@ -1,8 +1,18 @@
 import numpy as np
+"""Needed for testing."""
 
 
 class math_test:
+    """A mental math tester.
+
+    has options and bond versions
+    counts times wrong
+    called somewhere else for playing
+    stores potential numbers in object
+    """
+
     def __init__(self, rounds=5):
+        """Intializes game object."""
         self.rounds = rounds
         self.times_wrong = 0
         self.answer = 0
@@ -13,12 +23,14 @@ class math_test:
         self.adders_options = np.arange(-5, 5, .05)
         self.modes = np.arange(2)
 
-    def play(self):  # returns number wrong
-    """Plays the game.
+    def play(self):
+        """Plays game.
 
-    The core of the mental math script, this is focuses
-    on playing the version you wanted, and returning
-    an answer based on thatself."""
+        the core of the mental math script:
+        plays version you wanted
+        asks in method for answers
+        counts times wrongs and returns answer if wrong.
+        """
         for i in range(self.rounds):
             self.mode = np.random.choice(self.modes)
             if self.mode == 0:
@@ -30,9 +42,7 @@ class math_test:
                 # TODO: make the options version with -o
             if self.answer == 'quit':
                 return self.quit()
-            if self.answer == self.answer_actual:
-                print("You got it!")
-            elif float(self.answer) == self.answer_actual:
+            if self.answer or float(self.answer) == self.answer_actual:
                 print("You got it!")
             elif self.answer == 'quit':
                 return self.quit()
