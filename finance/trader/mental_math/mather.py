@@ -1,5 +1,5 @@
+"""Math game."""
 import numpy as np
-"""Needed for testing."""
 
 
 class math_test:
@@ -11,7 +11,7 @@ class math_test:
     stores potential numbers in object
     """
 
-    def __init__(self, rounds=5):
+    def __init__(self, mode=False, rounds=5):
         """Intializes game object."""
         self.rounds = rounds
         self.times_wrong = 0
@@ -21,7 +21,10 @@ class math_test:
         self.multipliers = np.arange(1, 200)
         self.adders = np.arange(100, 1000, 1)
         self.adders_options = np.arange(-5, 5, .05)
-        self.modes = np.arange(2)
+        self.modes = ['*', '+', 'o']
+        self.mode = mode
+        if not mode:
+            self.mode = np.random.choice(self.modes)
 
     def play(self):
         """Plays game.
@@ -32,20 +35,17 @@ class math_test:
         counts times wrongs and returns answer if wrong.
         """
         for i in range(self.rounds):
-            self.mode = np.random.choice(self.modes)
-            if self.mode == 0:
+            if self.mode == '*':
                 self.multiplication()
-            elif self.mode == 1:
+            elif self.mode == '+':
                 self.add()
-            elif self.mode == 2:
+            elif self.mode == 'o':
                 self.add_options()
-                # TODO: make the options version with -o
             if self.answer == 'quit':
                 return self.quit()
-            if self.answer or float(self.answer) == self.answer_actual:
+            if any([self.answer == self.answer_actual,
+                    float(self.answer) == self.answer_actual]):
                 print("You got it!")
-            elif self.answer == 'quit':
-                return self.quit()
             else:
                 self.times_wrong += 1
                 print("Not quite. The answer was %s." % self.answer_actual)
@@ -76,12 +76,12 @@ class math_test:
 
     def add_options(self):
         """Switches to option adding."""
-        first_num = np.random.choice(self.adders_options)
-        second_num = np.random.choice(self.adders_options)
+        first_num = round(np.random.choice(self.adders_options), 3)
+        second_num = round(np.random.choice(self.adders_options), 3)
         self.answer_actual = np.round(first_num + second_num, 3)
         print("What's %s plus %s?" % (first_num, second_num))
         self.answer = input()
-        self.answer = str(int(self.answer))
+        self.answer = str(round(float(self.answer), 3))
 
     def quit(self):
         """Quits out of the game, if 'quit' was the answer."""

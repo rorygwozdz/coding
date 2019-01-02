@@ -13,29 +13,30 @@ They will be used to:
 
 In pursuit of this you'll need a few scripts, a couple csvs, and a csv folder.
 
-1. news_updater.py
-    * asks for a summary of the news, your portfolio, commentary on trades you're loooking at, and review of trades you've made.
-2. mather.py
+1. news_updater.py (done)
+    * asks for a summary of the news, commentary on products you're loooking at, and stores interesting links for you.
+2. mather.py (done)
     * quizzes you on multiplication and percentages. records your scores and write them to a csv
-3. fin_quizzer.py
+3. fin.py
     * asks you the definition of a financial concept and an example of why it's important. Saves answers to csv. Has further application to iterating on better answers.
-4. probability_tester.py
+4. probability.py
     * the mother of an agglomeration of probability questions. Will ask for an answer and for tips on how to approach it. tips will appear in the future on similar problems. godspeed.
 5. market_maker.py
     * asks you a bunch of market making questions. will iterate with an extra guy trying stepping in and asking you a new price. this one will be about fruit.
 6. option_quizzer.py
     * asks about options, from natenbergs.
-7. bond_questions.py
-    * asks about bonds, like how options asks about options. from fabozzi.
+7. bigm.py
+    * first thing to run - shows and asks about a random quote from meditations.
 6. trader.py
     * this runs them all
 
 TODO:
-1. news_updater.py
 2. mather.py
-    * add -o and -b
 3. finance_quizzer.py
 4. probability_tester.py
 5. market_maker.py
 6. option_quizzer.py
-7. bond_questions.py
+7. meditations.py
+
+done:
+1. news_updater.py

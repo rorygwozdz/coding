@@ -46,3 +46,299 @@ What is the implied three-month LIBOR starting in July if the July EDF futures c
 What is the value of a put option on an EDF future if the call price is $5.16 and the futures and strike price are 92.82?
 People say that options are dangerous. Can you explain this?
 What happens to the price of a call option if the underlying pays a dividend D? How about a stock split?
+Define Delta.
+Define Gamma.
+Define Vega.
+Define Theta.
+Define Rho.
+"When you buy options, are you long or short Rho?"
+When you sell options are you long or short Rho?
+"When you buy options, are you long or short Theta?"
+When you sell options are you long or short Theta?
+"When you buy options, are you long or short Gamma?"
+When you sell options are you long or short Gamma?
+"When you buy options, are you long or short Vega?"
+When you sell options are you long or short Vega?
+"When you buy options, are you long or short Delta? With what type?"
+When you sell options are you long or short Delta? With what type?
+What is adjusted delta?
+How does dynamic hedging work? The basic idea.
+What is all or none (AON) execution?
+What is a binomial tree and why does it matter for american options?
+How are dividends treated differently between American and European options?
+What is autoregressive conditional heteroskedasticity?
+What's an ask price? Define it. 
+What's a bid price? Define it. 
+What is market depth?
+What's an asian option?
+"How does assignment mechanically work for a deep in the money option, mechanically, at expiry?"
+"What do I mean when I say ""at the forward""?"
+What options have the highest gamma?
+What the ways to make a straddle? 
+What are the ways to make a condor?
+What is automaric exercise? How does it work?
+Who was Louis Bachelier?
+What's a backspread? Give an example.
+What does it mean to have balanced skew? 
+What does it mean for the skew to be to the puts?
+What does it mean for the skew to be to the calls?
+What's a barrier option?
+Define a bear spread. 
+Define a bull spread. 
+What's a bermuda option?
+What's meant by binomial expansion?
+What is the Cox-Ross-Rubenstein (binomial) model? 
+What is binomial notation? When is it used?
+What is a blackout period?
+What is the BMX? Why do you care about it? 
+What's the body of butterfly?
+What's a box? Why's it used?
+What's breakeven volatility?
+What's a bull butterfly? Construct one.
+What's a bear butterfly? Construct one.
+What's a bull calendar spread? Construct one. 
+What's a bear calendar spread? Construct one. 
+What's a bear ratio spread? Construct an example. 
+What's a bull ratio spread? Construct an example. 
+Give two examples of a bull spread. 
+Give two examples of a bear spread. 
+What'a bull straddle?
+What's the difference between an iron butterfly and a regular one?
+What's a cabinet bid?
+How does implied volatility apply to a calendar spread?
+What are rolls in the context of a calendar spread?
+What's a jelly roll?
+What's a christmas tree spread?
+What's lambda have to do with calls?
+Do you sell or buy stock to hedge a long put?
+Do you sell or buy stock to hedge a long call?
+Do you sell or buy stock to hedge a short call?
+Do you sell or buy stock to hedge a short put?
+Make a synthetic put.
+Make a synthetic call. 
+Make a synthetic long loan.
+Make synthetic long stock.
+Make synthetic short stock. 
+What's a carry trade?
+What's cash and carry arb?
+What's a cash secured put?
+Who was Charles Castelli?
+What's a constant elasticity of variance model?
+What's a chooser option?
+What are circuit breakers? Give an example of one and when it kicks in. 
+What's a clearing firm? Who are their customers? 
+What are clearing houses? Why do they matter?
+What does it mean to be a clearing member?
+Why is the CME clearing house special?
+What's a collar?
+What is meant by the color of an option?
+What’s a combo?
+What's a companion option?
+What's a compund option?
+What does contango mean?
+Construct a long condor. 
+Construct a short condor. 
+Are you long or short gamma in a long condor? 
+Are you long or short vega in short calendar?
+What's a contingency yeild?
+What is meant by a conversion market?
+What's a crack spread?
+Talk to me about conversion.
+What's a covered call?
+What's a covered option?
+What is counterparty risk?
+Who was John Cox?
+What's a covered write?
+What does it mean for seomthing to be a credit spread?
+What does it mean for something to be a debit spread?
+What's a declared date?
+What's a time box?
+What'a diagonal roll? 
+What's a diagonal spread?
+What is a diagonal ratio spread?
+What's a Dragonfly? What's the stats term this posistion plays?
+What is driftless theta?
+How do you dynamically hedge? Explain to me the process.
+When would you early exercise a put option?
+When would you early exercise a call option?
+What is Lambda?
+What is elasticity in options world?
+What's a european box?
+Why would you use an exponentially weighted moving average? 
+"Why does ex-dividend date matter? For whom, mainly?"
+What is execution risk?
+What's an expiration straddle? Why would you want one? Why not?
+What is exercise notice?
+What's the exterme-value method?
+What's a fence?
+What's fill or kill execution (FOK)?
+What's a flat peak (platykurtic)?
+What does a flat skew assume?
+What's a flex option?
+What's a floating skew?
+What's a forward start option? Explain one difference in pricing from an american option.
+"What is meant by ""free-float""?"
+What's a front spread?
+What's fugit? What's it tell you?
+When do you have negative gamma?
+Explain how gamma relates to an options curvature.
+What is gamma rent?
+What's the theta tradeoff with gamma?
+"What is gamma risk, simply?"
+What is unit risk?
+What is gap risk?
+What's a GARCH model?
+Why does Mark Garman matter?
+What is the Garman-Kohlhagen model used for? Why's it important?
+How does Good til' cancelled (GTC) execution work?
+What are Guts? Why would you want one?
+What are half steps?
+How do you hedge a collar?
+How do you hedge a calendar?
+How do you hedge a christmas tree?
+What is a vol spread? Give an example. 
+How do you use vol spreads for hedging?
+What are some higher-order risk measures?
+What's a horizontal spread? Construct one. 
+How does an Immediate or Cancel (IOC) order work? 
+What's special about implied delta?
+How do you figure out the implied dividend?
+What's an implied spot price?
+How do you get the implied interest rate? Explain it simply. 
+Discuss how you would reevaulate implied volatility.
+Discuss time decay as it relates to implied volatility. 
+Discuss the main factors of implied volatility.
+Discuss floating skews as implied volatility.
+What's an in-option? An in-price?
+Discuss interest rate value.
+What's an inter-market spread?
+What is investment skew?
+What's the general hedging needs of the market?
+Make me a long iron condor. 
+What's the jump process?
+What's the jump-diffusion process?
+When is kappa used? What's it used for?
+What is vol-vega?
+What is vol-dollar-delta?
+What is kurtosis? How can you be long/short kurtosis? 
+"What's a ""last trading day""?"
+What's a LEAP?
+What's a leg?
+What is a limit order? 
+What is a locked limit?
+What are locked markets?
+What is a lognormal distribution?
+Discuss lognormal distributions in relation to butterflies.
+What's it mean to be long a time butterfly?
+What's a lookback option?
+What is magnitude risk?
+Discuss market making and market conditions. What is important?
+How are options values moved by market conditions?
+What is theoretical edge?
+What is market-if-touched (MIT)?
+What is market-on-close (MOC)?
+What does mark-to-market mean?
+What's a married put?
+What's a mid-atlantic option?
+What are midcurve options? What are they used for?
+What are natural long and shorts?
+What is negative dividend risk and when would you have it?
+Give an example of a posistion with negative time value.
+Give an example of a posistion with negative gamma.
+Give an example of a posistion with negative volga.
+Give an example of a posistion with negative vega.
+What's a neutral spread?
+What's negative time value?
+"What is meant by ""not held""?"
+What is an option's charm? Why does that matter?
+What is notional vega? Why does it matter?
+What's an OBO?
+What is one-cancels-the-other execution (OCO)?
+What is omega? What is it used for?
+What's OI?
+Talk to me about an opening and closing trade.
+What does the OCC do?
+What's the OEX? What's it useful for?
+What's an out-trade?
+What's an overwrite?
+Talk to me about parlysis through analysis.
+Who was michael parkinson?
+What's partial derivative?
+What is Phi? What is it used for?
+What's pin risk?
+Why does population standard deviation matter?
+What does positive dividend risk look like? Who has it?
+What's a protective put?
+What's meant by protective options?
+What are pseudoprobabilities?
+Talk to me about puts and lambdas.
+What's put call parity? Type it out.
+What's a ratio straddle?
+What's a ratio write?
+What's a record date?
+What's a reversal?
+What's a revcon? How do you hedge one?
+What is the risk in a box trade?
+What's a gamma spread? How would you construct one?
+What's management risk?
+Talk to me about rolls and their risks. 
+Talk to me about the risk of ratio spreads.
+Talk to me about volatility risk.
+Talk to me about settlement risk.
+Talk to me about how a stock split is handled in the options market. Who handles it?
+Who's Mark Rubenstein?
+Who's Stephen Ross?
+What's scalping?
+What's a second generation option?
+What does it mean to be serial correlated?
+What's the sharpe ratio?
+Explain to me the mechanics of a short squeeze.
+What's a short stock rebate?
+What's sigma?
+What's sticky delta skew?
+What's sticky strike skew?
+What's a PMM?
+What's a DMM?
+What's a specialist?
+What's a special opening rotation?
+What's speed?
+What's a risk reversal?
+What's split strike conversion?
+What's it mean for a spread to be static?
+Discuss stock splits and their implications for market makers.
+What's a stop loss order? How does it work?
+What's a strap?
+What's a stop limit order? How is it executed?
+Describe a long kurtosis strategy.
+Describe a short kurtosis strategy.
+What's a swaption?
+What's a tail peak (leptokurtic)?
+What is tau? What's it used for?
+What is tailing? What is relevant to?
+What is driftless theta? Give an example of where it's used.
+What's a three way?
+Describe how to scale volatility for time. What's important to note?
+What's a time butterfly?
+What's the value line index?
+What is vanna?What's it for?
+What is a variance contract?
+What's a variance swap?
+How are gamma and vega related?
+What's a volatility smirk?
+What does it mean to consider volatility as the speed of the market?
+What's a volatility surface?
+"Describe, conceptually, the term structure of volatility."
+What are volatility contracts?
+How are volatility contracts used for hedging?
+How can you replicate a volatility contract?
+How is the VIX calculated? What does it describe?
+How does a VIX future settle? When?
+How is the VXX valued? Where is it's value derived from? Why does it constantly lose value?
+What does it mean for VIX futures to be in contango?
+What is volga?
+What is VWAP? When's it applicable?
+What is vomma? When's it useful?
+What's a zero cost collar?
+What's a warrant?
+What's yield volatility?
+What's zomma?
