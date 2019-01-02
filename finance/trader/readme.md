@@ -17,26 +17,24 @@ In pursuit of this you'll need a few scripts, a couple csvs, and a csv folder.
     * asks for a summary of the news, commentary on products you're loooking at, and stores interesting links for you.
 2. mather.py (done)
     * quizzes you on multiplication and percentages. records your scores and write them to a csv
-3. fin.py
+3. fin.py (done) NB: replaced, at the meta level, with question asker, because abstractly, it does the same thing, just generalized.
     * asks you the definition of a financial concept and an example of why it's important. Saves answers to csv. Has further application to iterating on better answers.
-4. probability.py
+4. probability.py (done) SEE NOTE FOR fin.py
     * the mother of an agglomeration of probability questions. Will ask for an answer and for tips on how to approach it. tips will appear in the future on similar problems. godspeed.
-5. market_maker.py
+5. market_maker.py (TODO)
     * asks you a bunch of market making questions. will iterate with an extra guy trying stepping in and asking you a new price. this one will be about fruit.
-6. option_quizzer.py
+6. option_quizzer.py (included in fin.py)
     * asks about options, from natenbergs.
-7. bigm.py
+7. bigm.py (done)
     * first thing to run - shows and asks about a random quote from meditations.
-6. trader.py
+6. trader.py (done-ish, for now)
     * this runs them all
 
 TODO:
-2. mather.py
-3. finance_quizzer.py
-4. probability_tester.py
 5. market_maker.py
-6. option_quizzer.py
-7. meditations.py
 
 done:
 1. news_updater.py
+2. mather.py
+3. finance_quizzer.py / 4. probability_tester.py = question_asker.py
+7. meditations.py
