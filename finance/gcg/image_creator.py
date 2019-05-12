@@ -56,7 +56,7 @@ for lst in tickers:
                     ticker_true_cdf[prob] = ticker_true_cdf[0]
         ticker_distributed_returns = pd.DataFrame({'returns': ticker_sorted_returns,
                                                   'cdf': ticker_true_cdf})
-        #looking at the log of the chances of things
+        # looking at the log of the chances of things
         plt.plot(ticker_distributed_returns.returns, ticker_distributed_returns.cdf, 'bo')
         plt.yscale('log')
         plt.title(i + ' Logarized Returns')
@@ -65,13 +65,13 @@ for lst in tickers:
         logarizedimgfilename = ('/Users/rory/coding/finance/gcg/images/' + i + '/logarizedchart.png')
         plt.savefig(logarizedimgfilename)
         plt.close()
-        #looking at the big log log power law returns
+        # looking at the big log log power law returns
         ticker_std_above = 3
         ticker_norm = (ticker_distributed_returns.returns - np.mean(ticker_distributed_returns.returns))/np.std(ticker_distributed_returns.returns)
         ticker_norm_above = abs(ticker_norm[abs(ticker_norm) > ticker_std_above])
         ticker_log_return = np.log(ticker_distributed_returns.cdf)
-        ticker_log_above =  ticker_log_return[abs(ticker_norm) > ticker_std_above]
-        ###vxx_norm_above == t_norm_x, vxx_log_above == dvariable (this all references earlier code)
+        ticker_log_above = ticker_log_return[abs(ticker_norm) > ticker_std_above]
+        ### vxx_norm_above == t_norm_x, vxx_log_above == dvariable (this all references earlier code)
         plt.scatter(ticker_norm_above, ticker_log_above)
         plt.title(i + "Log Log Big Returns")
         plt.xlabel("Log Normalized Returns)")
